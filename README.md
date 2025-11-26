@@ -2,7 +2,6 @@
 
 ## 📑Read Me!!!
 
-- Here represents OOP using CPP with its various ways!
-- This is happend through Programming Advices platform and my self editing for a learn purpose!!!
-
+- This Repository represents OOP using CPP with its various aspects(classes &Objects - Inheritance - Polymorphism - Encapsulation - Abstraction- Construction & Destruction..)!
+- For Learning purposes I used Programming Advices platform !!!!  
 ---
